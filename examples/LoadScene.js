@@ -5,4 +5,4 @@ var StickDriver = require('../src')
 var stick = new StickDriver("192.168.100.96", { debug: true })
 
 // Trigger the scene number 1
-stick.triggerScene(1)
+stick.triggerScene(9)
